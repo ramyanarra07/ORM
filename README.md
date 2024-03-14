@@ -47,7 +47,7 @@ admin.site.register(Book,BookAdmin)
 
 ## OUTPUT
 
-![alt text](<Screenshot (18).png>)
+![Screenshot (19)](https://github.com/ramyanarra07/ORM/assets/152273259/32a28e33-c900-4b10-a817-9467bbd4c653)
 
 
 ## RESULT
