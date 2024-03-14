@@ -47,7 +47,7 @@ admin.site.register(Book,BookAdmin)
 
 ## OUTPUT
 
-![alt text](<WEB 2.png>)
+![alt text](<Screenshot (18).png>)
 
 
 ## RESULT
